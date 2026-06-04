@@ -34,7 +34,7 @@ soil-suitability-project/
 ## Dataset
 
 Download dataset from:
-https://your-link-here
+https://drive.google.com/drive/folders/1DcQUoDUt9ehoggHMrJN1RZDn88APctYb?usp=drive_link
 
 After downloading, place it inside:
 
