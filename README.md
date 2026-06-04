@@ -31,6 +31,19 @@ soil-suitability-project/
 └── README.md
 ```
 
+## Dataset
+
+Download dataset from:
+https://your-link-here
+
+After downloading, place it inside:
+
+data/
+├── Black_Soil/
+├── Red_Soil/
+├── Sandy_Soil/
+└── Clay_Soil/
+
 ## Installation
 
 ```bash
